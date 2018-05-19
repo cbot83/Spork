@@ -1,6 +1,6 @@
 # Spork [![Build Status](https://travis-ci.org/thelornenelson/zen-spork.svg?branch=master)](https://travis-ci.org/thelornenelson/zen-spork)
 
-[Spork is live](https://damp-cove-57304.herokuapp.com/)
+[Spork is live on Heroku](https://spork.herokuapp.com/) Give it a moment to load up.
 
 The recipe website that gives you a full screen, hands-free mode for cooking.
 
